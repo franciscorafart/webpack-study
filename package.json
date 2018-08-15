@@ -1,0 +1,28 @@
+{
+  "name": "webp",
+  "version": "1.0.0",
+  "description": "Study webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscorafart/webpack-study.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Francisco Rafart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscorafart/webpack-study/issues"
+  },
+  "homepage": "https://github.com/franciscorafart/webpack-study#readme",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-command": "^0.4.1"
+  }
+}
